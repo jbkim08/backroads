@@ -6,7 +6,7 @@ function App() {
       <nav className="navbar">
         <div className="nav-center">
           <div className="nav-header">
-            <img src="./images/logo.svg" className="nav-logo" alt="backroads" />
+            <img src="/images/logo.svg" className="nav-logo" alt="backroads" />
             <button type="button" className="nav-toggle" id="nav-toggle">
               <i className="fas fa-bars"></i>
             </button>
@@ -95,7 +95,7 @@ function App() {
         <div className="section-center about-center">
           <div className="about-img">
             <img
-              src="./images/about.jpeg"
+              src="/images/about.jpeg"
               className="about-photo"
               alt="awesome beach"
             />
@@ -175,7 +175,7 @@ function App() {
         <div className="section-center featured-center">
           <article className="tour-card">
             <div className="tour-img-container">
-              <img src="./images/tour-1.jpeg" className="tour-img" alt="" />
+              <img src="/images/tour-1.jpeg" className="tour-img" alt="" />
               <p className="tour-date">august 26th, 2020</p>
             </div>
             <div className="tour-info">
@@ -202,7 +202,7 @@ function App() {
 
           <article className="tour-card">
             <div className="tour-img-container">
-              <img src="./images/tour-2.jpeg" className="tour-img" alt="" />
+              <img src="/images/tour-2.jpeg" className="tour-img" alt="" />
               <p className="tour-date">october 1th, 2020</p>
             </div>
             <div className="tour-info">
@@ -227,7 +227,7 @@ function App() {
 
           <article className="tour-card">
             <div className="tour-img-container">
-              <img src="./images/tour-3.jpeg" className="tour-img" alt="" />
+              <img src="/images/tour-3.jpeg" className="tour-img" alt="" />
               <p className="tour-date">september 15th, 2020</p>
             </div>
             <div className="tour-info">
@@ -252,7 +252,7 @@ function App() {
 
           <article className="tour-card">
             <div className="tour-img-container">
-              <img src="./images/tour-4.jpeg" className="tour-img" alt="" />
+              <img src="/images/tour-4.jpeg" className="tour-img" alt="" />
               <p className="tour-date">december 5th, 2019</p>
             </div>
             <div className="tour-info">
